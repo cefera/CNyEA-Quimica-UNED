@@ -1,13 +1,16 @@
 # CNyEA-Quimica-UNED
-PEC 1 CNyEA
+PEC adicional CNyEA
 
-Primera Prueba de Evaluación Continua de la asignatura de Cálculo Numérico y Estadística Aplicada del Grado en Química de la UNED
+Prueba de Evaluación Continua adicional de la asignatura de Cálculo Numérico y Estadística Aplicada del Grado en Química de la UNED
 
 César Fernández Ramírez
 
-version: 0.5 Junio de 2022
+version: 0.8 Julio de 2022
 
-- Hay dos cuadernos de Jupyter: 
-  - prueba para comprobar que se es capaz de ejecutar cuadernos de Jupyter: Prueba_CNyEA.ipynb
-  - la práctica en si misma: PEC1_CNyEA.ipynb
-- Las instrucciones para ejecutar la práctica se encuentran en el archivo PEC1_CNyEA.pdf
+- Hay dos carpetas. Una contiene la PEC adicional (PEC) y la otra el test de ejecución (Test):
+  - Carpeta Test. Contiene dos archivos:
+    - TestJuguete_CNyEA.ipynb : Cuaderno de Python con el test
+    - TestJuguete_CNyEA.pdf   : Documento pdf con las instrucciones para la realización del ejercicio de test
+  - Carpeta PEC. Contiene dos archivos:
+    - PECadicional_CNyEA.ipynb : Cuaderno de Python con la PEC adicional
+    - PECadicional_CNyEA.pdf   : Documento pdf con las instrucciones para la realización de la PEC adicional
