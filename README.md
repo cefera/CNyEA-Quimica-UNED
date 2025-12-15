@@ -5,12 +5,12 @@ PEdCN de la asignatura de Cálculo Numérico y Estadística Aplicada del Grado e
 
 César Fernández Ramírez
 
-version: 1.0 Septiembre de 2025
+version: 2.0 Diciembre de 2025
 
-- Hay dos carpetas. Una contiene la PEdCN y la otra el test de ejecución (Test):
+- Hay dos carpetas. Una contiene la PEC 1  y la otra el test de ejecución (Test):
   - Carpeta Test. Contiene dos archivos:
-    - TestJuguete_CNyEA.ipynb : Cuaderno de Python con el test
-    - TestJuguete_CNyEA.pdf   : Documento pdf con las instrucciones para la realización del ejercicio de test
+    - TestEjecucion_CNyEA.ipynb : Cuaderno de Python con el test
+    - TestEjecucion_CNyEA.pdf   : Documento pdf con las instrucciones para la realización del ejercicio de test
   - Carpeta PEC. Contiene dos archivos:
-    - PECadicional_CNyEA.ipynb : Cuaderno de Python con la PEdCN
-    - PECadicional_CNyEA.pdf   : Documento pdf con las instrucciones para la realización de la PEdCN
+    - PEC1_CNyEA.ipynb : Cuaderno de Python con la PEC 1
+    - CNyEA_PEC.pdf    : Documento pdf con las instrucciones para la realización de la PEC 1 
