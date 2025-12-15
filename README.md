@@ -1,7 +1,5 @@
 # CNyEA-Quimica-UNED
-Prueba de Evaluación Continua (PEC) de Cálculo Numérico
-
-de la asignatura de Cálculo Numérico y Estadística Aplicada (CNyEA) del Grado en Química de la UNED
+Primera Prueba de Evaluación Continua (PEC 1) de Cálculo Numérico de la asignatura de Cálculo Numérico y Estadística Aplicada (CNyEA) del Grado en Química de la UNED
 
 César Fernández Ramírez
 
