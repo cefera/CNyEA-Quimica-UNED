@@ -5,7 +5,7 @@ PEdCN de la asignatura de Cálculo Numérico y Estadística Aplicada del Grado e
 
 César Fernández Ramírez
 
-version: 0.8 Julio de 2022
+version: 1.0 Septiembre de 2025
 
 - Hay dos carpetas. Una contiene la PEdCN y la otra el test de ejecución (Test):
   - Carpeta Test. Contiene dos archivos:
