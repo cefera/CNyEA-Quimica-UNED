@@ -1,13 +1,13 @@
 # CNyEA-Quimica-UNED
-Prueba Evaluable de Cálculo Numérico (PEdCN)
+Prueba de Evaluación Continua (PEC) de Cálculo Numérico
 
-PEdCN de la asignatura de Cálculo Numérico y Estadística Aplicada del Grado en Química de la UNED
+de la asignatura de Cálculo Numérico y Estadística Aplicada (CNyEA) del Grado en Química de la UNED
 
 César Fernández Ramírez
 
 version: 2.0 Diciembre de 2025
 
-- Hay dos carpetas. Una contiene la PEC 1  y la otra el test de ejecución (Test):
+- Hay dos carpetas. Una contiene la primera PEC y la otra el test de ejecución:
   - Carpeta Test. Contiene dos archivos:
     - TestEjecucion_CNyEA.ipynb : Cuaderno de Python con el test
     - TestEjecucion_CNyEA.pdf   : Documento pdf con las instrucciones para la realización del ejercicio de test
