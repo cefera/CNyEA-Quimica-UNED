@@ -12,3 +12,5 @@ version: 2.0 Diciembre de 2025
   - Carpeta PEC. Contiene dos archivos:
     - PEC1_CNyEA.ipynb : Cuaderno de Python con la PEC 1
     - CNyEA_PEC.pdf    : Documento pdf con las instrucciones para la realización de la PEC 1 
+
+Nota: Al ser una PEC correspondiente al primer semestre, los archivos solo están disponibles durante el periodo en el que son necesarios para la realización de dicha PEC.
